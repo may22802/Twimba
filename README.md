@@ -7,7 +7,7 @@ npm start
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Twimba
-
+![Alt text](images/overview.png)
 A social media app Twitter(X) clone featuring functions
 ```
 reply to a tweet
